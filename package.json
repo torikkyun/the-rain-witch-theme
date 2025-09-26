@@ -1,0 +1,21 @@
+{
+  "name": "the-rain-witch-theme",
+  "displayName": "The Rain Witch Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Rain Witch Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/the-rain-witch-color-theme.json"
+      }
+    ]
+  }
+}
