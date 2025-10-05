@@ -1,9 +1,7 @@
-# Change Log
+# the-rain-witch-theme
 
-All notable changes to the "the-rain-witch-theme" extension will be documented in this file.
+## [0.0.1] - 2025-10-05
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added
 
-## [Unreleased]
-
-- Initial release
+- Initial release of The Rain Witch Theme

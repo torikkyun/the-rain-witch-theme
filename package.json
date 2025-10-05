@@ -1,13 +1,27 @@
 {
   "name": "the-rain-witch-theme",
   "displayName": "The Rain Witch Theme",
-  "description": "",
+  "description": "An elegant dark theme inspired by Tonelico from Fate/Grand Order, featuring warm golden accents and soft blue tones",
   "version": "0.0.1",
+  "publisher": "nduc4",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/torikkyun/the-rain-witch-theme"
+  },
   "engines": {
     "vscode": "^1.104.0"
   },
+  "icon": "images/Tonelico1024.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "aesc",
+    "tonelico",
+    "fate",
+    "elegant"
   ],
   "contributes": {
     "themes": [
